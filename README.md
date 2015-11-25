@@ -6,9 +6,11 @@
 
 This library enables you to send and receive using infra-red signals on an Arduino.
 
+This lib contains code for the Robo Sapian Version 1 robots.
+
 Check [here](http://z3t0.github.io/Arduino-IRremote/) for tutorials and more information.
 
-## Version - 2.01
+## Version - 2.01 (forked)
 
 ## Installation
 1. Navigate to the [Releases](https://github.com/z3t0/Arduino-IRremote/releases) page.
